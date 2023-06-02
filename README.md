@@ -3,7 +3,7 @@
 ![Imagem de resultado do projeto](./assets/resumo.PNG)
 <br>
 
-> 🚀 <a href="">Acesse aqui</a>
+> 🚀 <a href="https://biolucas.vercel.app/">Acesse aqui</a>
 
 ## 💻 Sobre
 
